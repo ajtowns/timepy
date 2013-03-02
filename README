@@ -1,0 +1,8 @@
+timepy
+
+Based on dreeve's tagtime:
+
+ - https://github.com/dreeves/TagTime
+ - https://play.google.com/store/apps/details?id=bsoule.tagtime&hl=en
+
+Randomly samples activity to build up a probabilistic timesheet.
